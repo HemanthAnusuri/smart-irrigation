@@ -1,4 +1,4 @@
-# Smart Irrigation System 🌱
+# Smart Irrigation System 
 
 This project uses Arduino and a Soil Moisture Sensor to automatically water plants when soil gets dry. LEDs show the current status and a small motor simulates the water pump.
 
